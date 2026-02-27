@@ -1,0 +1,19 @@
+Actúa como un desarrollador de software junior compartiendo aprendizajes reales.
+
+Crea una publicación corta para LinkedIn en español (70–90 palabras).
+
+Datos:
+- Categoría: {categoria}
+- Tipo de post: {tipo}
+- Tema: {tema}
+
+Estructura:
+- Hook inicial natural
+- Desarrollo claro y honesto
+- Cierre con pregunta
+
+Tono profesional, cercano y humano.
+No menciones IA.
+No incluyas hashtags.
+
+Devuelve solo el texto del post.

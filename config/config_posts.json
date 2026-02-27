@@ -1,0 +1,28 @@
+{
+    "categorias": {
+        "python": [
+            "Sintaxis básica",
+            "Variables",
+            "Funciones",
+            "Clases",
+            "Herencia"
+        ],
+        "react": [
+            "Componentes",
+            "Props",
+            "State",
+            "Hooks"
+        ],
+        "general": [
+            "Buenas prácticas",
+            "Errores comunes",
+            "Aprendizaje junior"
+        ]
+    },
+    "tipos_post": [
+        "aprendizaje",
+        "error",
+        "tip",
+        "concepto"
+    ]
+}

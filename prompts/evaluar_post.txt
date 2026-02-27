@@ -1,0 +1,19 @@
+Evalúa la siguiente publicación para LinkedIn escrita por un desarrollador junior.
+
+Criterios:
+- Claridad y legibilidad
+- Tono humano (no robótico)
+- Enfoque junior (aprendizaje real)
+- Estructura (hook, desarrollo, cierre)
+
+Devuelve SOLO un JSON con este formato exacto:
+{{ 
+  "score": 0.0,
+  "decision": "aprobado|rechazado",
+  "feedback": "comentario breve"
+}}
+
+Publicación:
+"""
+{contenido}
+"""
