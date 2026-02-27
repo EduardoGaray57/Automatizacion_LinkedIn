@@ -14,11 +14,11 @@ config → selector → IA (generación) → IA (evaluación) → edición human
 
 ## 📁 Estructura
 linkedin_automation/
-├── ai/ 
-├── core/ 
-├── prompts/ 
-├── data/ 
-├── main.py
+    ├── ai/ 
+    ├── core/ 
+    ├── prompts/ 
+    ├── data/ 
+    ├── main.py
 
 ## 🔄 Flujo de estados
 - idea
