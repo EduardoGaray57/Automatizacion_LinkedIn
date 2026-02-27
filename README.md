@@ -14,7 +14,9 @@ enfocado en contenido de desarrollador junior.
 ---
 
 ## 🧠 Arquitectura
+```txt
 config → selector → IA (generación) → IA (evaluación) → edición humana → listo/publicado
+```
 
 ---
 
